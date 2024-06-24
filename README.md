@@ -14,12 +14,12 @@ This project showcases a custom phone home page created using HTML and CSS. The 
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/roy377676/Phone-Home-page.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd Phone-Home-page
     ```
 
 3. Open `index.html` in your browser to view the phone home page.
@@ -32,11 +32,7 @@ Feel free to use this project as a template for your own custom phone home page.
 
 Contributions are welcome! Please open an issue or submit a pull request with your suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
-- [Your Name](https://github.com/your-username)
+- Bikram Mondal (https://github.com/roy377676/Phone-Home-page.git)
